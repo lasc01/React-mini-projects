@@ -1,6 +1,6 @@
-# React-mini-projects
+## React-mini-projects
 
-#Author: Abioro Olamide
+##Author: Abioro Olamide
 
 #This repository contains a collection of React mini projects to help you learn and practice different React concepts.
 
